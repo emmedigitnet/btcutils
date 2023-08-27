@@ -1,5 +1,5 @@
-E:\Share\BTC\RUST\hello_world\target\debug\deps\hello_world.exe: src\main.rs
+X:\Utente\Documenti\btcutils\rust\hello_world\target\debug\deps\hello_world.exe: src\main.rs
 
-E:\Share\BTC\RUST\hello_world\target\debug\deps\hello_world.d: src\main.rs
+X:\Utente\Documenti\btcutils\rust\hello_world\target\debug\deps\hello_world.d: src\main.rs
 
 src\main.rs:
